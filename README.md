@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![background](image/background.gif)  
+![background](https://github.com/foreverhappylxc/foreverhappylxc/blob/master/image/background.gif)  
 ### 1. 🔭 基本信息
 - Name: Xingchao Long
 - Gender: male
@@ -67,5 +67,5 @@ MySQL实现的网站。
 - 做事严谨，有责任心。负责任，帮人帮到底，不会中途退出。
 - 独立学习能力强。自己能够静下心，去分析思考问题。
 - 沟通能力一般。擅长多做事，多思考，少说话。
-- 爱好较窄。除了乒乓球、游戏，就是学习与吃饭。
-![结束](image/end.gif)
+- 爱好较窄。除了乒乓球、游戏，就是学习与吃饭。  
+![结束](https://github.com/foreverhappylxc/foreverhappylxc/blob/master/image/end.gif)
